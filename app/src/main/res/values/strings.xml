@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+
+    <!-- Place names -->
+    <string name="place_1">Bali</string>
+    <string name="place_2">Paris</string>
+    <string name="place_3">Singapore</string>
+
+    <!-- Descriptions -->
+    <string name="description">Explore the most iconic destinations with us!</string>
+
+    <!-- Plan -->
+    <string name="plan">Click to view the travel itinerary</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="title_activity_paris">Paris</string>
+    <string name="title_activity_bali">Bali</string>
+
+</resources>
